@@ -8,4 +8,4 @@
 
 * Ein **Reinforcement-Learning-Algorithmus**, der nach dem Prinzip des Q-Learning ein Ping-Pong Spiel optimiert.
 
-gewählte Programmiersprache: Clojure (.clj)
+Gewählte Programmiersprache: Clojure (.clj)
